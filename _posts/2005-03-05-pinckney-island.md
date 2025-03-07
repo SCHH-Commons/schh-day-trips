@@ -27,6 +27,8 @@ Start your visit with a leisurely walk or bike ride along the main gravel trail,
 
 One of the first points of interest is Ibis Pond, located less than a mile from the entrance. This pond is a haven for wading birds, including great egrets, snowy egrets, and white ibises. During the spring and summer months, you may also spot nesting herons and wood storks. The pond’s calm waters make it a perfect spot for photography, so take your time observing the diverse birdlife from the viewing areas.
 
+`image /images/pinckney-gator.jpg "Alligator at Pinckney" right`
+
 As you continue deeper into the refuge, you’ll encounter a variety of habitats, including freshwater ponds, maritime forests, and expansive salt marshes. Keep an eye out for alligators basking along the water’s edge, as well as painted buntings, red-bellied woodpeckers, and ospreys soaring overhead. The trails are mostly flat, making them suitable for all fitness levels.
 
 ## Midday: Venturing to Dick Point and Beyond
