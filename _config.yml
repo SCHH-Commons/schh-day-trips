@@ -1,16 +1,20 @@
 title: SCHH Day Trips
 description: >
   Day trips from Sun City Hilton Head.
-#author:
-  #name: GitHub User
-  #email: your-email@domain.com
+author:
+  name: Ron Snyder
+  email: ron@snyderjr.com
 
 nav_pages:
   - about.md
+  - contact.md
+
 show_excerpts: true
+show_rss_feed: true
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+url: /schh-day-trips
 content_selector: div.post-content,div.home

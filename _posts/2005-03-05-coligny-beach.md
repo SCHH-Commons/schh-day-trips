@@ -4,6 +4,7 @@ title: Coligny Beach
 description: Escape to Coligny Beach for a perfect day of sun, sand, and surf just a short drive from Sun City Hilton Head. Enjoy relaxing by the ocean, exploring the lively Coligny Plaza, and indulging in fresh seafood, making for a refreshing coastal getaway.
 date: 2025-03-05
 author: Ron Snyder
+tags: beach
 ---
 
 `image wc:Plage-Hilton-Head-Island-6.JPG right`

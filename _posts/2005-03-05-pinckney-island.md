@@ -4,6 +4,7 @@ title: Pinckney Island National Wildlife Refuge
 description: Take a scenic day trip from Sun City Hilton Head to Pinckney Island National Wildlife Refuge, a haven for birdwatchers, hikers, and nature lovers. Just a short drive away, the refuge offers picturesque trails, diverse wildlife, and tranquil marshland views, making for a perfect outdoor escape.
 date: 2025-03-04
 author: Ron Snyder
+tags: wildlife hiking
 ---
 
 `image wc:Pinckney_Island_Trails_(7638332142).jpg "Pinckney Island National Wildlife Refuge" right`
